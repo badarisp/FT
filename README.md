@@ -45,7 +45,7 @@ Setup Instructions
 Local Development
 
 Clone the Repository
-git clone https://github.com/your-username/flight-tracker.git
+git clone [https://github.com/your-username/flight-tracker.git](https://github.com/badarisp/FT)
 cd flight-tracker
 
 
